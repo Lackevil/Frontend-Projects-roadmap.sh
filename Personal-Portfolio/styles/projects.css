@@ -1,0 +1,39 @@
+.projects {
+  border-bottom: none;
+  margin-bottom: 15px;
+}
+
+/* .projects__container {
+} */
+
+/* .projects__inner {
+} */
+
+.projects__title {
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: clamp(2.4rem, 5vw, 3.6rem);
+}
+
+.projects__row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.projects__item {
+  border: 2px solid #000;
+}
+
+/* .item-projects {
+} */
+
+.item-project__title {
+  padding: 10px;
+}
+
+.item-projects__images {
+  object-fit: cover;
+}
